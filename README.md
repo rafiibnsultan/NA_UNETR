@@ -28,11 +28,10 @@ We introduce **NA-UNETR**, a 3D transformer-based segmentation framework that in
 
 ---
 
-<!--
+
 ## Architecture
 
-Upload the architecture figure as `Figures/architecture.png`, then remove the
-opening and closing HTML comment markers surrounding this section.
+
 
 <p align="center">
   <img src="Figures/architecture.png" width="900" alt="NA-UNETR architecture"/>
@@ -42,14 +41,11 @@ opening and closing HTML comment markers surrounding this section.
   <em>Overview of the proposed NA-UNETR architecture.</em>
 </p>
 
----
--->
 
-<!--
+
+
 ## Qualitative Results
 
-Upload the qualitative comparison figure as `Figures/qualitative_results.png`,
-then remove the opening and closing HTML comment markers surrounding this section.
 
 <p align="center">
   <img src="Figures/qualitative_results.png" width="900" alt="Qualitative LAD segmentation results"/>
@@ -59,8 +55,7 @@ then remove the opening and closing HTML comment markers surrounding this sectio
   <em>Qualitative comparison of LAD segmentation results on representative non-contrast CT scans.</em>
 </p>
 
----
--->
+
 
 ## Repository Structure
 
