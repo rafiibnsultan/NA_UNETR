@@ -9,6 +9,7 @@
 NA-UNETR is a 3D transformer-based framework for segmenting the left anterior descending (LAD) artery in free-breathing, non-contrast CT. It combines local structural modeling, long-range contextual reasoning, and uncertainty-guided optimization to address the low contrast, severe class imbalance, and anatomical variability of this clinically important structure.
 
 Paper: https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.70653
+
 Open source: https://arxiv.org/abs/2608.12274
 ---
 
